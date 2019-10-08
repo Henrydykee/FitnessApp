@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string name="exercise_text_view">10 times</string>
+    <string name="title_android_fitness_exercise">Exercise Number: (%d/%d)</string>
+    <string name="go">GO</string>
+    <string name="well_done">WELL DONE !!</string>
+    <string name="about_us">About Us</string>
+
+</resources>
